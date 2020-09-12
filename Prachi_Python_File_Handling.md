@@ -31,6 +31,7 @@ We have many languages which supports file handling ,
 <p>
 <b><i>Modes in python:</b></i>
 </p><br>
+
 <p>1. <b><i>r</i></b> - This is the read mode. 
   In this we can read the informaton the file has.
   The reading of the data starts from the beginning of the file, i.e., the file pointer is at the beginning of the file.</p>
